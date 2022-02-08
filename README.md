@@ -13,3 +13,13 @@ R automation and data visualization projects
 #3 I created a script to automate finding new baseball players to replace those who dropped-out of the team:
 - Three players had to be replaced who did not cost more than $15000000 altogether, in average had higher OBP than 0.3638687 and in total higher AB than 1469
 - The two solutions both automate the search for acceptable new players
+
+#4 I created a multi-panel data visualization about the cubic associations between partner preferences are age across men and women:
+- The figure shows the curved relationship between age and partner preferences across 15 characteristics
+- The individual panels are organized and the legend shows only at the bottom of the combined figure
+- See the big figure and the script attached
+
+#5 I created a multi-panel data visualization using smoothing splines to search for non-linear associations between age and self-perceived mate value
+- The first figure has two panels, it shows the age x mate value association in men and women separately
+- The second figure has four panels, it shows the age x mate value associations in coupled vs single men and women separately
+- See the two multi-panel figures and the script attached
